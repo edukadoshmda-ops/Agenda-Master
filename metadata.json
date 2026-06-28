@@ -1,0 +1,6 @@
+{
+  "name": "Pastor Pro Premium",
+  "description": "Aplicativo premium para pastores organizarem toda a rotina ministerial com agenda inteligente por IA, calendário completo, relógio, notas, controle de eventos e relatórios.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
